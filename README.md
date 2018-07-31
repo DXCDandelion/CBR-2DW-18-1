@@ -38,7 +38,7 @@ Customers can ask the robot directions to locations around the airport such as t
 When a customer's boarding pass is scanned the robot performs a security check to see if the customer is listed and if so sends an alert to the security team. Additionally, the robot will allow employees to leave voice messages for each other.
 
 ## Code Repository
-All code will be stored in GitHub (**ADD LINK**)
+All code will be stored in GitHub https://github.com/dxcCorey/CBR-2DW-18-1
 
 ## Requirements
 Requirements will be in the form of GitHub Issues labelled as `enhancement`
